@@ -1,0 +1,59 @@
+class AppIcons {
+  //bottom nav icons
+  static const selectedHomeIcon = "images/selected_home.png";
+  static const unselectedHomeIcon = "images/unselected_home.png";
+  static const selectedBasketIcon = "images/selected_basket.png";
+  static const unselectedBasketIcon = "images/unselected_basket.png";
+  static const unselectedStoreIcon = "images/unselected_shop.png";
+  static const selectedStoreIcon = "images/selected_store.png";
+  static const searchIcon = "images/feather_search.png";
+  static const selectedRequestIcon = "images/profile-groups-filled - Copy.png";
+  static const unselectedRequestIcon = "images/profile-groups-outlined.png";
+  static const paintBrush = "images/paint-board-and-brush.png";
+  static const airtimeIcon = "images/wifi.png";
+  static const dataIcon = "images/signal-alt-2.png";
+  static const cableIcon = "images/screen.png";
+  static const bettingIcon = "images/dice-alt.png";
+  static const electricityIcon = "images/bolt.png";
+  static const jambIcon = "images/graduation-cap.png";
+  static const waecIcon = "images/graduation-diploma.png";
+  static const moreIcon = "images/apps.png";
+
+
+  static const notificationSettingsIcons = "images/notification-bell.png";
+  static const cartNotificationIcon = "images/cart.png";
+  static const accountNotificationIcon = "images/user.png";
+  static const wishlistNotificationIcon = "images/wishlist.png";
+  static const securityNotificationIcon = "images/shield.png";
+  static const updateNotificationIcon = "images/refresh.png";
+  static const orderNotificationIcon = "images/booking.png";
+  static const logoutIcon = "images/feather_log_out.png";
+  static const notificationIcon = "images/notification-filled.png";
+  static const storeManagerIcon = "images/icons8-store-48.png";
+  static const emptyScreenIcon = "images/empty screen.png";
+  static const fingerPrintIcon = "images/fingerprint-filled.png";
+  static const incomingMessageIcon = "images/forums-filled.png";
+  static const groupMessageIcon = "images/groups-filled.png";
+  static const emailAlertIcon = "images/email_filled.png";
+  static const privateMessageIcon = "images/profile-groups-filled.png";
+  static const newsLetterIcon = "images/push-notifications-filled.png";
+  static const settingsIconBold = "images/settings-filled.png";
+  static const connectionRequestIcon = "images/profile-connections-outlined.png";
+  static const boksLogo = "images/splash_screen_logo.png";
+  // static const boksLogo = "images/e7b7f0fa4cafde8cc25ceee3c54bf58d_2-removebg-preview.png";
+  static const nomadTechLogo = "images/nomad_tech_logo.png";
+  static const eyeOpenIcon = "images/feather_eye.png";
+  static const eyeCloseIcon = "images/feather_eye_off.png";
+  static const barCodeReaderIcon = "images/barcode.png";
+  static const trackerIcon = "images/finder_icon.png";
+  static const qrCodeIcon = "images/icons8-qrcode-50.png";
+  static const ussd = "images/ussd.png";
+  static const secured_payments_icon = "images/secure_payment.png";
+  static const fast_delivery_icon = "images/fast_delivery.png";
+  static const exclusive_deals_icon = "images/exclusive_deals.png";
+  static const google_icon = "images/google_icons.png";
+  static const apple_icon = "images/apple_icon.png";
+  static const facebooke_icon = "images/face_book_icons.png";
+  static const bottomNavPieSelected = "images/pie-chart (2).png";
+  static const bottomNavPieUnselected = "images/pie-chart (3).png";
+}
